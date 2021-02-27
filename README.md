@@ -1,6 +1,6 @@
 #  ✨ FrontEnd Dev ✨
 - 👋 Hola, soy @mathiezelat
-- Mi linkedin <a src="https://www.linkedin.com/in/mathiezelat/">Acá!<a>
+- Mi linkedin https://www.linkedin.com/in/mathiezelat/ 😀
 
 
 <!---
