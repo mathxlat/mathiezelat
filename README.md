@@ -1,5 +1,5 @@
-# 👋 Hola, soy @mathiezelat
-# FrontEnd Dev
+#  ✨ FrontEnd Dev ✨
+- 👋 Hola, soy @mathiezelat# 
 
 
 <!---
