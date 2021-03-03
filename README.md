@@ -1,5 +1,5 @@
 #  ✨ FrontEnd Dev ✨
-- 👋 Hola, soy @mathiezelat
+- 👋 Hola, soy Mathias Ezequiel Latronico
 - Mi linkedin https://www.linkedin.com/in/mathiezelat/ 😀
 
 
