@@ -1,6 +1,7 @@
 #  ✨ FrontEnd Dev ✨
-- 👋 Hola, soy Mathias Ezequiel Latronico
+- 👋 Hola, soy Mathias Ezequiel Latronico.
 - Mi linkedin https://www.linkedin.com/in/mathiezelat/ 😀
+- Actualmente aprendiendo Javascript y ReactJS. 🤯
 
 
 <!---
