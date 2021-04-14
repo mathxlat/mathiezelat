@@ -11,8 +11,7 @@
 
 Hoy en día me encuentro estudiando y practicando para ser cada vez mejor. 🤯
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiezelat&show_icons=true&theme=radical)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiezelat&show_icons=true&theme=dark)
 - Mi linkedin https://www.linkedin.com/in/mathiezelat/ 😀
 
 
