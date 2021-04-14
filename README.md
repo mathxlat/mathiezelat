@@ -1,6 +1,6 @@
 #  ✨ Hola, soy Mathias. FrontEnd Dev ✨
 
-Estudiando para ser un Full Stack
+### Estudiando para ser un Full Stack
 
 Hace un tiempo largo vengo aprendiendo las siguientes cosas:
 - HTML
