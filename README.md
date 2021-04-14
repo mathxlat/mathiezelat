@@ -1,4 +1,4 @@
-![GitHub Logo](https://programacion.net/files/article/article_02166_.png)
+![GitHub Logo](https://jesusmaceira.com/wp-content/uploads/2019/04/gradiente-colores-analogos.png)
 #  ✨ Hola, soy Mathias. FrontEnd Dev ✨
 
 ## Estudiando para ser un Full Stack
