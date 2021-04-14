@@ -10,7 +10,7 @@ Hace un tiempo largo vengo aprendiendo las siguientes cosas:
 - ReactJS
 ##
 - Mi linkedin https://www.linkedin.com/in/mathiezelat/ 😀
-Hoy en día me encuentro estudiando y practicando para ser cada vez mejor. 🤯
+- Hoy en día me encuentro estudiando y practicando para ser cada vez mejor. 🤯
 
 <!---
 mathiezelat/mathiezelat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
