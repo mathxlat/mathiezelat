@@ -2,7 +2,7 @@
 
 ### Estudiando para ser un Full Stack
 
-Hace un tiempo largo vengo aprendiendo las siguientes cosas:
+Hace unos cuantos meses vengo aprendiendo las siguientes cosas:
 - HTML
 - CSS
 - SCSS
