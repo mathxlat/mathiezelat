@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiezelat)](https://github.com/anuraghazra/github-readme-stats)
 #  ✨ Hola, soy Mathias. FrontEnd Dev ✨
 
 ## Estudiando para ser un Full Stack
@@ -11,9 +10,9 @@
 - ReactJS
 
 Hoy en día me encuentro estudiando y practicando para ser cada vez mejor. 🤯
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiezelat&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiezelat&show_icons=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiezelat&show_icons=true&theme=radical)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 - Mi linkedin https://www.linkedin.com/in/mathiezelat/ 😀
 
 
