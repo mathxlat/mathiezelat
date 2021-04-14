@@ -1,7 +1,6 @@
 <h1 align="center">✨👋 Hola! Soy Mathias, FrontEnd Dev. ✨</h1>
 <p align="center">
-  <a href="https://jatinrao.dev">Website</a> •
-  <a href="https://twitter.com/iamjatinrao">Twitter</a>
+  <a href="https://www.linkedin.com/in/mathiezelat/">Linkedin</a> 😀
 </p>
 
 #
@@ -17,7 +16,6 @@
 </p>
 
 ##
-- Mi linkedin https://www.linkedin.com/in/mathiezelat/ 😀
 - Hoy en día me encuentro estudiando y practicando para ser cada vez mejor. 🤯
 <!---
 mathiezelat/mathiezelat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
