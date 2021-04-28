@@ -3,7 +3,7 @@
 
 * Actualmente estudiando para ser un Full Stack 
 
-## Herramientas y Lenguajes
+## Herramientas 
 
 * HTML5
 * CSS3
