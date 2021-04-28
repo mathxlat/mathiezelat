@@ -14,6 +14,6 @@
   
 
 ## Contacto
-- Me pueden encontrar en Linkedin [mathiezelat](https://www.github.com/katherinepeterson)
+- Me pueden encontrar en Linkedin: [mathiezelat](https://www.github.com/katherinepeterson)
 
   
