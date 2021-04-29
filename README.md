@@ -14,6 +14,6 @@
   
 
 ## Contacto
-- Me pueden encontrar en Linkedin: [mathiezelat](https://www.linkedin.com/in/math%C3%ADas-ezequiel-latr%C3%B3nico/)
+- Me pueden encontrar en Linkedin: [mathiezelat](https://www.linkedin.com/in/mathiezelat/)
 
   
