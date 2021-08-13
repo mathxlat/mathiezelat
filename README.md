@@ -10,6 +10,9 @@
 * SASS
 * JavaScript
 * ReactJS
+* ReactNative
+* Redux
+
 
   
 
