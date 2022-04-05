@@ -1,18 +1,18 @@
 
-# ✨👋 Hola! Soy Mathias, FrontEnd Dev. ✨
+# 👋 Hola! Soy Mathias, Full Stack Dev.
 
-* Actualmente estudiando para ser un Full Stack 
+## ⭐ Algunas herramientas/tecnologías
 
-## Herramientas 
-
-* HTML5
-* CSS3
+* HTML
+* CSS
 * SASS
 * JavaScript
-* ReactJS
-* ReactNative
+* React.js
+* React Native
 * Redux
-
+* Node.js
+* Express.js
+* MongoDB
 
   
 
