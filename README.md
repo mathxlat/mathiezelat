@@ -7,14 +7,10 @@
 * CSS
 * SASS
 * JavaScript
-* React.js
-* React Native
-* Redux
+* React JS / Native
 * Node.js
 * Express.js
 * MongoDB
-
-  
 
 ## Contacto
 - Me pueden encontrar en Linkedin: [mathiezelat](https://www.linkedin.com/in/mathiezelat/)
