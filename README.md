@@ -1,5 +1,5 @@
 
-# 👋 Hola! Soy Mathias, Full Stack Dev.
+# 👋 Hola! Soy Mathias, Full Stack MERN.
 
 ## ⭐ Algunas herramientas/tecnologías
 
