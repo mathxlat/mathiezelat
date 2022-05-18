@@ -1,7 +1,7 @@
 
-# 👋 Hola! Soy Mathias, Full Stack MERN.
+# ¡Hola! Soy Mathias, Full Stack Developer MERN 👋
 
-## ⭐ Algunas herramientas/tecnologías
+### ⭐ Algunas herramientas/tecnologías
 
 * HTML
 * CSS
@@ -12,7 +12,8 @@
 * Express.js
 * MongoDB
 
-## Contacto
-- Me pueden encontrar en Linkedin: [mathiezelat](https://www.linkedin.com/in/mathiezelat/)
+### Contactame 📲
+- Linkedin: https://www.linkedin.com/in/mathiezelat/
+- Email: mathiezelat@gmail.com
 
   
