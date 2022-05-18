@@ -1,5 +1,8 @@
 
 # ¡Hola! Soy Mathias, Full Stack Developer MERN 👋
+Soy de Buenos Aires, Argentina. Soy una persona responsable y comprometida. Esforzándome por crecer y formarme como profesional.
+
+- 👷‍♂️ Actualmente buscando mi primera experiencia
 
 ### Algunas herramientas/tecnologías que domino 👨‍💻
 <div align="center">
