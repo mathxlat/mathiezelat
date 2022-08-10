@@ -3,7 +3,7 @@
 Soy de Buenos Aires, Argentina. Empecé de forma autodidacta aprendiendo sobre el desarrollo web, haciendo cursos y practicando. Soy una
 persona dedicada, responsable, proactiva y comprometida. Esforzándome por crecer y formarme como profesional. Me apasiona la tecnología.
 
-Actualmente buscando mi primera experiencia en el ámbito laboral. 
+Actualmente buscando mi primera experiencia en el ámbito laboral. 🚀
 
 ### Algunas herramientas/tecnologías que domino 👨‍💻
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
