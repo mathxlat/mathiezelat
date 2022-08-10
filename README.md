@@ -1,12 +1,11 @@
 
 # ¡Hola! Soy Mathias, Full Stack Developer MERN 👋
-Soy de Buenos Aires, Argentina. Soy una persona responsable y comprometida. Esforzándome por crecer y formarme como profesional.
+Soy de Buenos Aires, Argentina. Empecé de forma autodidacta aprendiendo sobre el desarrollo web, haciendo cursos y practicando. Soy una
+persona dedicada, responsable, proactiva y comprometida. Esforzándome por crecer y formarme como profesional. Me apasiona la tecnología. 
 
-- 👷‍♂️ Actualmente buscando mi primera experiencia
+👷‍♂️ Actualmente buscando mi primera experiencia
 
 ### Algunas herramientas/tecnologías que domino 👨‍💻
-<div align="center">
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -19,8 +18,6 @@ Soy de Buenos Aires, Argentina. Soy una persona responsable y comprometida. Esfo
 ![EXPRESS.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-</div>
 
 ### Contactame 📲
 - LinkedIn: [https://www.linkedin.com/in/mathiezelat/](https://www.linkedin.com/in/mathiezelat/)
