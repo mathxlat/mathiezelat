@@ -33,6 +33,3 @@ Actualmente buscando mi primera experiencia en el ámbito laboral. 🚀
 ### Contactame 📲
 - LinkedIn: [https://www.linkedin.com/in/mathiezelat/](https://www.linkedin.com/in/mathiezelat/)
 - E-mail: mathiezelat@gmail.com
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mathiezelat&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=7E3ACE)](https://git.io/streak-stats)
-![Mathias Ezequiel Latronico's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiezelat&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=mathiezelat)
