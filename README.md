@@ -34,6 +34,6 @@ Actualmente buscando mi primera experiencia en el ámbito laboral. 🚀
 - E-mail: mathiezelat@gmail.com
 
 <div>
-  <img width="48%" src="https://streak-stats.demolab.com?user=mathiezelat&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=7E3ACE" alt="A Github Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mathiezelat&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=mathiezelat" alt="A Github Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=mathiezelat&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=7E3ACE" alt="A Github Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathiezelat&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=mathiezelat" alt="A Github Streak" />
 </div>
