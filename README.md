@@ -4,7 +4,7 @@ Soy de Buenos Aires, Argentina. Empecé de forma autodidacta aprendiendo sobre e
 
 Actualmente buscando mi primera experiencia en el ámbito laboral. 🚀
 
-### Algunas herramientas/tecnologías de las que tengo conocimiento 🧰
+### Algunas herramientas y tecnologías de las que tengo conocimiento incluyen 🧰
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
