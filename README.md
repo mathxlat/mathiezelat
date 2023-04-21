@@ -1,10 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=10000&color=7E3ACE&vCenter=true&width=725&lines=%C2%A1Hola!+Soy+Mathias%2C+Full+Stack+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-Soy un desarrollador de software autodidacta de Buenos Aires, Argentina. Empecé a aprender sobre el desarrollo de software haciendo cursos, practicando y mejorando constantemente. Me considero una persona comprometida y proactiva, siempre buscando oportunidades para seguir creciendo y formándome como profesional. La tecnología y la programación me apasionan, y me motivan a crear e innovar en el ámbito de desarrollo de software. 💻
+I'm a self-taught and passionate software developer from Buenos Aires, Argentina. I love creating and innovating in software development. 💻
 
-Actualmente busco mi primer trabajo en el ámbito del desarrollo de software. Me encantan los desafíos que me permiten seguir aprendiendo y desarrollándome como profesional. 🚀
-
-### Algunas herramientas y tecnologías de las que tengo conocimiento incluyen 🧰
+### Tools and technologies 🧰
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -30,7 +28,7 @@ Actualmente busco mi primer trabajo en el ámbito del desarrollo de software. Me
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Contactame 📲
+### Contact me 📲
 - LinkedIn: [https://www.linkedin.com/in/mathiezelat/](https://www.linkedin.com/in/mathiezelat/)
 - E-mail: mathiezelat@gmail.com
 
