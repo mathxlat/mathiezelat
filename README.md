@@ -29,8 +29,8 @@ I'm a self-taught and passionate software developer from Buenos Aires, Argentina
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Contact me 📲
-- LinkedIn: [https://www.linkedin.com/in/mathiezelat/](https://www.linkedin.com/in/mathiezelat/)
-- E-mail: mathiezelat@gmail.com
+- [https://www.linkedin.com/in/mathiezelat/](https://www.linkedin.com/in/mathiezelat/)
+- mathiezelat@gmail.com
 
 <div>
   <img width="49%" src="https://streak-stats.demolab.com?user=mathiezelat&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=7E3ACE" alt="A Github Streak" />
