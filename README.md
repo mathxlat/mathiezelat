@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=10000&color=7E3ACE&vCenter=true&width=725&lines=%C2%A1Hola!+Soy+Mathias%2C+Full+Stack+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-I'm a self-taught and passionate software developer from Buenos Aires, Argentina. I love creating and innovating in software development. 💻
+I love creating and innovating in software development. 💻
 
 ### Tools and technologies 🧰
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
